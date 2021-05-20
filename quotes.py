@@ -34,7 +34,7 @@ nice_messages = [
     'People can\'t argue with such an awesome person like you.',
     'You\'re special',
     'Out of 7 billion people, you are unique.',
-    'Take care of those that take care of you, adn you\'ll see how much your life will change.',
+    'Take care of those that take care of you, and you\'ll see how much your life will change.',
     'Nothing is impossible when you have the right person by your side.',
     'Friendship is something you can\'t buy or sell. It\'s priceless therefore you have to take care of it and make sure your friends are happy. Each and every day.',
     '',
